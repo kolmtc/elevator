@@ -1,2 +1,2 @@
 # elevator
-emulator of elevator
+emulator of elevator on Python
